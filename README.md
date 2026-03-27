@@ -1,1 +1,1 @@
-# pub-go
+# pub-go -- para donde vamos?
