@@ -1,4 +1,4 @@
-# pub-go
+# secure-button
 
 Emergency SOS app for Android. Trigger an alert from a **locked phone** using configured hardware buttons (volume up/down, power). The app automatically:
 
